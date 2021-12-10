@@ -1,1 +1,1 @@
-# Amarii
+# Amarii.github.io
